@@ -33,9 +33,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,qt,arduino,rust,java,python,powershell" />
+    <img src="https://skillicons.dev/icons?i=cpp,rust,java,python,powershell" />
+    <img src="https://skillicons.dev/icons?i=qt" />
     <img src="https://skillicons.dev/icons?i=clion,idea,pycharm,vscode,visualstudio,git" />
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,raspberrypi" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,raspberrypi,arduino" /><br>
 </div>
 
 <br/>
