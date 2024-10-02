@@ -44,8 +44,18 @@
   <br/><br/><br/>
 </div>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+ <hr>
 
-![](https://github-readme-stats.vercel.app/api?username=DeanPrangenberg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DeanPrangenberg&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeanPrangenberg&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<a href="mailto:prangenbergdean@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://DeanPrangenberg.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
