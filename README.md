@@ -29,7 +29,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,rust,java,python,powershell" />
     <img src="https://skillicons.dev/icons?i=qt" />
-    <img src="https://skillicons.dev/icons?i=clion,idea,pycharm,vscode,visualstudio,git" />
+    <img src="https://skillicons.dev/icons?i=clion,idea,pycharm,vscode,visualstudio" />
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,raspberrypi,arduino" /><br>
 </div>
 
