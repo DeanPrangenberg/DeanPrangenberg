@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a ransomware**
+ 🔭 I’m currently working on **a file cryptor**
  
  🌱 I’m currently learning **C++ and Rust**
 
