@@ -27,9 +27,9 @@
 <h2 align="center">💻 Tech Stack 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,rust,python,powershell" />
+    <img src="https://skillicons.dev/icons?i=cpp,rust,python,powershell,golang,java" />
     <img src="https://skillicons.dev/icons?i=qt" />
-    <img src="https://skillicons.dev/icons?i=clion,pycharm,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=clion,pycharm,goland,intelij,vscode,visualstudio" />
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,raspberrypi,arduino" /><br>
 </div>
 
