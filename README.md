@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a file cryptor**
  
- 🌱 I’m currently learning **C++ and Rust**
+ 🌱 I’m currently learning **C++, Java and go**
 
  </div>
  
