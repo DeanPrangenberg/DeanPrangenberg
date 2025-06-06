@@ -32,8 +32,6 @@
     <img src="https://skillicons.dev/icons?i=clion,pycharm,idea,vscode,visualstudio" />
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,raspberrypi,arduino" /><br>
 </div>
-
-<hr/>
  <hr>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
