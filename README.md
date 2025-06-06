@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a messenger**
  
- 🌱 I’m currently learning **C++, rust and go**
+ 🌱 I’m currently learning **C++ & QT**
 
  </div>
  
@@ -33,7 +33,6 @@
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,raspberrypi,arduino" /><br>
 </div>
 
-<br/>
 <hr/>
  <hr>
 
