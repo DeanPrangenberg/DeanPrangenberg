@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a messenger**
  
- 🌱 I’m currently learning **C++ & QT**
+ 🌱 I’m currently learning **Rust & Golang**
 
  </div>
  
