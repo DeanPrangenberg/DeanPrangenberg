@@ -27,10 +27,10 @@
 <h2 align="center">💻 Tech Stack 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,bash,go" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,go, rust, python" />
     <img src="https://skillicons.dev/icons?i=qt" />
-    <img src="https://skillicons.dev/icons?i=clion,idea,vscode" />
-    <img src="https://skillicons.dev/icons?i=windows,arduino,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=clion,idea,rustrover, pycharm" />
+    <img src="https://skillicons.dev/icons?i=arduino,linux" /><br>
 </div>
  <hr>
 
