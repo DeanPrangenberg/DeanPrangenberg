@@ -29,7 +29,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,go,python" />
     <img src="https://skillicons.dev/icons?i=qt" />
-    <img src="https://skillicons.dev/icons?i=clion,pycharm,goland" />
+    <img src="https://skillicons.dev/icons?i=clion,pycharm" />
     <img src="https://skillicons.dev/icons?i=arduino,linux" /><br>
 </div>
  <hr>
