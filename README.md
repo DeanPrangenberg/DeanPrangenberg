@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a concurtent c++ container library**
+ 🔭 I’m currently working on **a concurrent c++ container library**
  
  🌱 I’m currently learning **C++**
 
